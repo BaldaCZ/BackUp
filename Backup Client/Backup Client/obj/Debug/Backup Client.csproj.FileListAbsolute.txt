@@ -1,0 +1,18 @@
+D:\Projekty\Projekty\Backup Client\Backup Client\bin\Debug\Backup Client.exe.config
+D:\Projekty\Projekty\Backup Client\Backup Client\bin\Debug\Backup Client.exe
+D:\Projekty\Projekty\Backup Client\Backup Client\bin\Debug\Backup Client.pdb
+D:\Projekty\Projekty\Backup Client\Backup Client\obj\Debug\Backup Client.csprojResolveAssemblyReference.cache
+D:\Projekty\Projekty\Backup Client\Backup Client\obj\Debug\Backup_Client.Form1.resources
+D:\Projekty\Projekty\Backup Client\Backup Client\obj\Debug\Backup_Client.Properties.Resources.resources
+D:\Projekty\Projekty\Backup Client\Backup Client\obj\Debug\Backup Client.csproj.GenerateResource.Cache
+D:\Projekty\Projekty\Backup Client\Backup Client\obj\Debug\Backup Client.exe
+D:\Projekty\Projekty\Backup Client\Backup Client\obj\Debug\Backup Client.pdb
+C:\Users\Jára\Desktop\Backup Client\Backup Client\bin\Debug\Backup Client.exe.config
+C:\Users\Jára\Desktop\Backup Client\Backup Client\obj\Debug\Backup Client.exe
+C:\Users\Jára\Desktop\Backup Client\Backup Client\obj\Debug\Backup Client.pdb
+C:\Users\Jára\Desktop\Backup Client\Backup Client\bin\Debug\Backup Client.exe
+C:\Users\Jára\Desktop\Backup Client\Backup Client\bin\Debug\Backup Client.pdb
+C:\Users\Jára\Desktop\Backup Client\Backup Client\obj\Debug\Backup Client.csprojResolveAssemblyReference.cache
+C:\Users\Jára\Desktop\Backup Client\Backup Client\obj\Debug\Backup_Client.Form1.resources
+C:\Users\Jára\Desktop\Backup Client\Backup Client\obj\Debug\Backup_Client.Properties.Resources.resources
+C:\Users\Jára\Desktop\Backup Client\Backup Client\obj\Debug\Backup Client.csproj.GenerateResource.Cache
